@@ -1,0 +1,10 @@
+var myname = "Binoj";
+console.log(myname);
+var myNumber = [1, 312, 313, 12, 15111];
+console.log(myNumber);
+var mixArray = ["binoj", 12];
+console.log(mixArray);
+var arrOfArrays = [[1, 2, 3], [4, 5, 6]];
+console.log(arrOfArrays);
+var fixArray = [2, "binoj"];
+console.log(fixArray);
