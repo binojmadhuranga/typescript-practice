@@ -1,1 +1,14 @@
 node_modules/
+
+# Code Runner temporary files
+tempCodeRunnerFile.*
+
+# Build output
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+
+# Keep main files
+!index.js
+!index.d.ts
