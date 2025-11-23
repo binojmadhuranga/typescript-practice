@@ -17,4 +17,16 @@ type personCustom = {name: string, age: number}   //custom type
 
 let person1 : personCustom = {name : "Binoj" , age : 23}
 
- 
+ function addNum(x:number , y:number) : number {
+    return  x + y
+ }
+
+ console.log(addNum(2,3));
+
+ function logMsg(message: string | number) : void {
+    console.log(4);
+ }
+
+ let age= 23
+
+console.log(age)    
